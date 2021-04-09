@@ -1,4 +1,4 @@
-# 🥇 HARDTECHIO ♟
+# 🥇 HARDTECH ♟
 
 ## Olá, Somos a HardTech um grupo formado no BootCamp, da Generation Brasil!!! 🚀🚀🚀🚀
 
