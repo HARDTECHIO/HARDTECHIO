@@ -26,3 +26,5 @@ O DHOA,veio com o objetivo de desenvolvermos uma rede social, com intuito de aju
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    </a>
 </p>
+
+## Ficamos felizes, que você tenha nos visitado volte sempre. 👍 🙂
