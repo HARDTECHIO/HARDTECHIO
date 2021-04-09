@@ -12,3 +12,17 @@ O DHOA,veio com o objetivo de desenvolvermos uma rede social, com intuito de aju
 
 # Tecnologias abordadas para realizar o projeto 💾 📝
 
+<p align="center">
+ <a href="https://docs.oracle.com/javase/7/docs/api/">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   </a>
+   <a href="#">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   </a>
+     <a href="https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   </a>
+      <a href="https://www.mysql.com">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+   </a>
+</p>
