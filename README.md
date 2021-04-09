@@ -16,7 +16,7 @@ O DHOA,veio com o objetivo de desenvolvermos uma rede social, com intuito de aju
  <a href="https://docs.oracle.com/javase/7/docs/api/">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    </a>
-   <a href="https://angular.io/">
+   <a href="https://angular.io/docs" target="_blank">
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    </a>
      <a href="https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference">
