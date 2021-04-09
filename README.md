@@ -10,7 +10,7 @@ Foi proposto pela ong em desenvolver um E-commercer ou uma Rede Social, em reuni
 
 O DHOA,veio com o objetivo de desenvolvermos uma rede social, com intuito de ajudar pessoas que estão na linha de fragilidade social. Levando um pouco de esperança e ajuda a quem em muitas das vezes não tem um prato de comida para se alimentar. 
 
-# Tecnologias abordadas para realizar o projeto 💾 📝
+# Principais tecnologias abordadas para realização do projeto 💾 📝
 
 <p align="center">
  <a href="https://docs.oracle.com/javase/7/docs/api/">
